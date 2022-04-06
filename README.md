@@ -1,8 +1,8 @@
 # Ride-sharing-Challange 5
 
-# A ride-sharing summary DataFrame by city type
+## A ride-sharing summary DataFrame by city type
 
-# The total number of rides for each city type :
+## The total number of rides for each city type :
 
 # The total number of drivers for each city type:
 
