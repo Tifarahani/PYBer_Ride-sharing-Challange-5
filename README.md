@@ -2,8 +2,8 @@
 
 
 * Resources:
- * Python
- * Pandas
+  * Python
+  * Pandas
 
 ### A ride-sharing summary DataFrame by city type
 
