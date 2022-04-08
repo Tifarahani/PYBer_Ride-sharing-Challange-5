@@ -1,5 +1,10 @@
 # Ride-sharing-Challange 5
 
+
+Resources:
+* Python
+* Pandas
+
 ### A ride-sharing summary DataFrame by city type
 
 ### The total number of rides for each city type :
