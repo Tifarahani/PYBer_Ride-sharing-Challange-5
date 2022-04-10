@@ -15,20 +15,19 @@
 ### The total number of rides for each city type :
 ![img.2.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.2.png)
 ### The total number of drivers for each city type:
-
+![img.3.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.3.png)
 ### The sum of the fares for each city type:
-
+![img.4.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.4.png)
 ### The average fare per ride for each city type:
-
+![img.5.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.5.png)
 ### The average fare per driver for each city type:
-
+![img.6.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.6.png)
 ### A PyBer summary DataFrame:
-
+![img.7.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.7.png)
 ### The PyBer summary DataFrame is formatted as shown in the example:
-
-
+![img.8.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.8.png)
 ###  A multiple-line chart of total fares for each city type
-
+![img.9.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.9.png)
 
 ### Overview of the analysis:
 Explain the purpose of the new analysis.
