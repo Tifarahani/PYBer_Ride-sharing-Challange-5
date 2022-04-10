@@ -27,7 +27,7 @@
 ![img.6.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.6.png)
 * The PyBer summary DataFrame is formatted as shown in the example:
 ![img.7.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.7.png)
-http://localhost:8888/view/PYBer_Ride-sharing-Challange-5/Resources/Fig1.png(https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.8.png)
+![img.8.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.8.png)
 * A multiple-line chart of total fares for each city type
 ### Overview of the analysis:
 Explain the purpose of the new analysis.
