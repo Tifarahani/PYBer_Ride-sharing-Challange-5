@@ -25,6 +25,7 @@
 
 ### The PyBer summary DataFrame is formatted as shown in the example:
 
+
 ###  A multiple-line chart of total fares for each city type
 
 
