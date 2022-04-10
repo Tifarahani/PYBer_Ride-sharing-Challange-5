@@ -10,6 +10,7 @@
   * Matplotlib
 
 ### A ride-sharing summary DataFrame by city type
+![imgq] [Res]
 
 ### The total number of rides for each city type :
 
