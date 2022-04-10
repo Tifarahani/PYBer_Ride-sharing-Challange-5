@@ -7,8 +7,8 @@
   * Python
   * Pandas
   * Matplotlib
-  * Jupyter Notebook
-<br/>
+  * Jupyter Notebook <br/>
+
 * The total number of rides for each city type :
 ![img.1.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.1.png)
 ### The total number of drivers for each city type:
