@@ -34,5 +34,9 @@
 Explain the purpose of the new analysis.
 ### Results: 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+The total fare by city type
+
+#### The following line chart shows the total fare by city type from January to April 2019
+![PyBer_fare_summary](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/PyBer_fare_summary)
 ### Summary:
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
