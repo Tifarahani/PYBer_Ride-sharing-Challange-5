@@ -1,5 +1,6 @@
 ### Ride-sharing-Challange 5
 > * Overview:
+> Generating summary DataFrame of the ride-sharing data by city type using Python and Pandas. Then, using Pandas and Matplotlib, we can creat multiple-line graph that shows the total weekly fares for each city type.
 >
 
 * Resources:
@@ -7,11 +8,7 @@
   * Pandas
   * Matplotlib
   * Jupyter Notebook
-
-### A ride-sharing summary DataFrame by city type
-#### A ride-sharing summary DataFrame by city type
-
-
+<br/>
 * The total number of rides for each city type :
 ![img.1.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.1.png)
 ### The total number of drivers for each city type:
