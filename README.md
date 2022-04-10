@@ -6,6 +6,7 @@
   * Python
   * Pandas
   * Matplotlib
+  * Jupyter Notebook
 
 ### A ride-sharing summary DataFrame by city type
 #### A ride-sharing summary DataFrame by city type
@@ -26,13 +27,15 @@
 ![img.6.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.6.png)
 * The PyBer summary DataFrame is formatted as shown in the example:
 ![img.7.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.7.png)
-![img.8.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.8.png)
+http://localhost:8888/view/PYBer_Ride-sharing-Challange-5/Resources/Fig1.png(https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.8.png)
 * A multiple-line chart of total fares for each city type
 ### Overview of the analysis:
 Explain the purpose of the new analysis.
 ### Results: 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 The total fare by city type
+
+[Fig1.png] (http://localhost:8888/view/PYBer_Ride-sharing-Challange-5/Resources/Fig1.png)
 #### The following line chart shows the total fare by city type from January to April 2019
 ![PyBer_fare_summary.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/PyBer_fare_summary.png)
 ### Summary:
