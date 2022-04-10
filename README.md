@@ -10,7 +10,7 @@
   * Matplotlib
 
 ### A ride-sharing summary DataFrame by city type
-![img.1.png] (https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.1.png)
+![img.1] (https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.1.png)
 
 ### The total number of rides for each city type :
 
