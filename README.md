@@ -9,12 +9,12 @@
   * Pandas
   * Matplotlib
 
-### A ride-sharing summary DataFrame by city type
+#### A ride-sharing summary DataFrame by city type
 
 
 * The total number of rides for each city type :
 ![img.1.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.1.png)
-### The total number of drivers for each city type:
+* The total number of drivers for each city type:
 ![img.2.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.2.png)
 * The sum of the fares for each city type:
 ![img.3.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/img.3.png)
