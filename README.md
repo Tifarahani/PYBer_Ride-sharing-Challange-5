@@ -37,6 +37,6 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 The total fare by city type
 
 #### The following line chart shows the total fare by city type from January to April 2019
-![PyBer_fare_summary](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/PyBer_fare_summary)
+![PyBer_fare_summary.png](https://github.com/Tifarahani/PYBer_Ride-sharing-Challange-5/blob/main/Resources/PyBer_fare_summary.png)
 ### Summary:
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
