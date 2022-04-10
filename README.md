@@ -45,3 +45,4 @@ Improving access to PyBer service in those areas will imply finding the right ba
 Additional analysis including geographic size, population and social conditions, travel distances would be interesting to dive in.<br/>
 - The general tendencies is high number of drivers and rides goes with medium to low fare.<br/>
 On the scatter plot, we notice some urban cities with low number of drivers and low average fare but pretty high count of rides. Analyzing the average number of drivers against the population and infrastructure and economic activity in those cities would help understand those disparities.
+>>
