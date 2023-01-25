@@ -1,4 +1,4 @@
-### Ride-sharing-Challange 5
+### Ride-sharing
 > * Overview:
 > Generating summary DataFrame of the ride-sharing data by city type using Python and Pandas. Then, using Pandas and Matplotlib, we can creat multiple-line graph that shows the total weekly fares for each city type.
 >
